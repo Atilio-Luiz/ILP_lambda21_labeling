@@ -16,5 +16,5 @@ Dois números seguidos formam uma aresta.
 Para executar o programa, digite no terminal o comando (aqui, estou supondo que você possui python3.8 ou superior instalado):
 
 ```
-python3.10 PLI_ILP_L(2,1)labeling.py
+python3.10 ILP_L(2,1)labeling.py
 ```
